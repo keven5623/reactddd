@@ -1,0 +1,1 @@
+export const PAGE_SIZE = 3;//每頁顯示的文章數
